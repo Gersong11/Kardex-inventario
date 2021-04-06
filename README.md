@@ -52,14 +52,11 @@ Pruebas Funcionales
 
 ## Contribuyentes
 
-    Adriana Quijano 
-      adriana05.github.io
-    
-    Shadia Ochoa 
-      ShadiaShirley.github.io
-      
-    Gerson Gómez
-      Gersong11.github.io
+   
+* ** Adriana Quijano** - [ adriana05](https://github.com/ adriana05) 
+* **Shadia Ochoa**  - [ShadiaShirley](https://github.com/ShadiaShirley)
+* **Gerson Gómez** - [Gersong11](https://github.com/Gersong11) 
+
 
 ## Versión
 
