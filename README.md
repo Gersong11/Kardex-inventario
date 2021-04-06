@@ -53,7 +53,7 @@ Pruebas Funcionales
 ## Contribuyentes
 
    
-* ** Adriana Quijano** - [ adriana05](https://github.com/ adriana05) 
+* ** Adriana Quijano** - [ adriana05](https://github.com/adriana05) 
 * **Shadia Ochoa**  - [ShadiaShirley](https://github.com/ShadiaShirley)
 * **Gerson Gómez** - [Gersong11](https://github.com/Gersong11) 
 
