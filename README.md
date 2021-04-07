@@ -44,7 +44,13 @@ Pruebas Funcionales
 
 ## Juicio o recomendación sobre la aplicación
 
-* 
+* La especificación sobre el funcionamiento del sistema debe ser más explícita, ya que el entender el funcionamiento correcto tomo un tiempo al manipularlo en varias ocaciones.
+
+* En cada casilla debe especificar que acción se debe tomar, para que al usuario sepa lo que está realizando.
+
+* Se podría llegar a modificar el diseño para visualizar mejor los documentos.
+
+* El buscador debe permitir visualizar de manera responsiba las opciones de busqueda momento de digitarlas
 
 ## Modificación
 
