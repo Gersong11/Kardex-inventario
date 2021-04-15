@@ -52,6 +52,10 @@ Pruebas Funcionales
 
 * El buscador debe permitir visualizar de manera responsiba las opciones de busqueda momento de digitarlas
 
+* Se Deberia especifica bien la intalacion de los scrpts ya que no estan bien claros y al mometo de ejecutar genera una que otra falla.
+
+* 
+
 ## Modificación
 
 
