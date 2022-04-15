@@ -74,12 +74,12 @@ Pruebas Funcionales
     
 ## Autor
 
-    Yuliana Apaza
-    Arequipa, Perú 
-    yuliana.apaza94@gmail.com 
-    yg-apaza.github.io
+    Gerson Gomez
+    Cucuta, Colombia
+    gersongm0011@gmail.com 
     
-    https://github.com/yg-apaza/kardex
+    
+   https://github.com/Gersong11/Kardex-inventario
 
 ## Licencias
 
